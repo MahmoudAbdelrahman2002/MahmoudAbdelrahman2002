@@ -47,7 +47,7 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 
 I'm passionate about building amazing software with a diverse set of technologies! Here's what I enjoy using:
 
-**Programming Languages I Speak Fluently:** C#, Python, JavaScript, C, and SQL - each one brings its own magic to different projects!
+**Programming Languages:** C#, Python, JavaScript, C, and SQL - each one brings its own magic to different projects!
 
 **My Go-To Frameworks:** .NET (Core & Framework), ASP.NET Core, Entity Framework, and WPF - these are my trusted companions for building robust applications.
 
