@@ -40,20 +40,28 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 ### Databases & Tools
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-### 💼 Core Competencies
+### 💼 What I Love Working With
 
-- **Languages:** C#, Python, JavaScript, C, SQL
-- **Frameworks:** .NET (Core & Framework), ASP.NET Core, Entity Framework, WPF
-- **Web Development:** REST APIs, MVC Architecture
-- **Database:** SQL Server, Database Design & Optimization
-- **Embedded Systems:** C, C++ (basics), microcontroller programming (AVR, ARM), interfacing sensors & actuators, communication protocols (UART, SPI, I2C), Real-Time Operating Systems (RTOS)
-- **Problem Solving:** Strong analytical thinking, debugging, and troubleshooting skills; experience with algorithms, data structures, and optimization
-- **Development Tools:** Git, GitHub Actions, Docker, Logic analyzers, Oscilloscopes
-- **Software Architecture:** Design Patterns, SOLID Principles, Clean Architecture, System integration, Hardware-Software interfacing
+I'm passionate about building amazing software with a diverse set of technologies! Here's what I enjoy using:
+
+**Programming Languages I Speak Fluently:** C#, Python, JavaScript, C, and SQL - each one brings its own magic to different projects!
+
+**My Go-To Frameworks:** .NET (Core & Framework), ASP.NET Core, Entity Framework, and WPF - these are my trusted companions for building robust applications.
+
+**Web Development Adventures:** I love creating REST APIs and working with MVC Architecture to bring ideas to life on the web.
+
+**Database Wizardry:** SQL Server is my playground for database design and optimization - there's something satisfying about a well-structured database!
+
+**Embedded Systems Fun:** Working with C, microcontroller programming (AVR, ARM), connecting sensors & actuators, and diving into communication protocols (UART, SPI, I2C) and Real-Time Operating Systems (RTOS) - it's like being a digital architect!
+
+**Problem-Solving Mindset:** I genuinely enjoy analytical thinking, debugging puzzles, and troubleshooting challenges. Working with algorithms, data structures, and optimization keeps my mind sharp!
+
+**My Development Toolkit:** Git, GitHub Actions, logic analyzers, and oscilloscopes - the tools that make the magic happen.
+
+**Architecture & Design:** I'm fascinated by design patterns, SOLID principles, clean architecture, system integration, and the beautiful dance between hardware and software.
 
 ---
 
@@ -110,9 +118,7 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 - 🔐 Security best practices in web development
 
 ### 📚 Learning Path 2024
-- [ ] Advanced Docker & Kubernetes orchestration
 - [ ] Modern web development frameworks
-- [ ] Machine Learning fundamentals with ML.NET
 - [ ] Advanced embedded systems with FreeRTOS
 - [ ] Automation and continuous integration practices
 
@@ -159,31 +165,6 @@ I'm always interested in discussing:
 - 💡 Open source contributions
 - 🤝 Technical mentorship
 - 📈 Software architecture discussions
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Fun Facts About Me
-
-```javascript
-const mahmoud = {
-    pronouns: "He/Him",
-    code: [".NET", "C#", "Python", "C", "JavaScript"],
-    askMeAbout: ["web dev", "embedded systems", "clean architecture", "problem solving"],
-    technologies: {
-        backEnd: ["C#", ".NET Core", "ASP.NET Core"],
-        embedded: ["C", "AVR", "ARM", "RTOS"],
-        databases: ["SQL Server"],
-        devTools: ["Docker", "GitHub Actions"],
-        tools: ["Git", "Visual Studio", "VS Code"]
-    },
-    currentFocus: "Building scalable .NET applications and embedded solutions",
-    funFact: "I love turning complex problems into elegant solutions!"
-};
-```
 
 </div>
 
