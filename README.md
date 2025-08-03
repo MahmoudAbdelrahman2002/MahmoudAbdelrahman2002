@@ -41,7 +41,6 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 </div>
 
@@ -53,7 +52,7 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 - **Database:** SQL Server, Database Design & Optimization
 - **Embedded Systems:** C, C++ (basics), microcontroller programming (AVR, ARM), interfacing sensors & actuators, communication protocols (UART, SPI, I2C), Real-Time Operating Systems (RTOS)
 - **Problem Solving:** Strong analytical thinking, debugging, and troubleshooting skills; experience with algorithms, data structures, and optimization
-- **DevOps & Tools:** Git, GitHub Actions, Docker, Azure DevOps, Logic analyzers, Oscilloscopes
+- **Development Tools:** Git, GitHub Actions, Docker, Logic analyzers, Oscilloscopes
 - **Software Architecture:** Design Patterns, SOLID Principles, Clean Architecture, System integration, Hardware-Software interfacing
 
 ---
@@ -64,13 +63,13 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Stopwatch Application**](https://github.com/MahmoudAbdelrahman2002/Stop_Watch) | Digital stopwatch with start/stop/reset functionality and lap timing | C, Embedded Systems |
-| [**Fan Controller System**](https://github.com/MahmoudAbdelrahman2002/fanController) | Embedded system project for automatic fan control based on temperature sensors | C, AVR, Sensors |
-| [**Digital Clock System**](https://github.com/MahmoudAbdelrahman2002/Clock-System) | Real-time digital clock with alarm and display features | C, Embedded, RTOS |
-| [**Embedded Toolchain Utilities**](https://github.com/MahmoudAbdelrahman2002/tool_chain) | Utilities and scripts to streamline embedded systems development | C, Scripts |
-| [**Bootloader Firmware Project**](https://github.com/MahmoudAbdelrahman2002/Bootloader-Project) | Custom bootloader for safe firmware updates on microcontrollers | C, ARM, Firmware |
-| [**Distance Measuring Device**](https://github.com/MahmoudAbdelrahman2002/Distance-Measuring-System) | Embedded solution for accurate distance measurement using sensors | C, Sensors, AVR |
-| [**News Aggregator Web App**](https://github.com/MahmoudAbdelrahman2002/News) | A web application for fetching and displaying the latest news headlines | .NET, Web API |
+| [**Stopwatch Application**](https://github.com/MahmoudAbdelrahman2002/Stop_Watch) | A user-friendly digital stopwatch with start, stop, reset features and lap timing | C, Embedded Systems |
+| [**Smart Fan Controller**](https://github.com/MahmoudAbdelrahman2002/fanController) | Intelligent fan control system that automatically adjusts speed based on temperature | C, AVR, Sensors |
+| [**Digital Clock System**](https://github.com/MahmoudAbdelrahman2002/Clock-System) | Feature-rich digital clock with alarm functionality and clear display | C, Embedded, RTOS |
+| [**Development Utilities**](https://github.com/MahmoudAbdelrahman2002/tool_chain) | Helpful utilities and scripts that make embedded development easier | C, Scripts |
+| [**Custom Bootloader**](https://github.com/MahmoudAbdelrahman2002/Bootloader-Project) | Reliable bootloader for safe and secure firmware updates | C, ARM, Firmware |
+| [**Distance Measuring Tool**](https://github.com/MahmoudAbdelrahman2002/Distance-Measuring-System) | Accurate distance measurement device using modern sensor technology | C, Sensors, AVR |
+| [**News Reader App**](https://github.com/MahmoudAbdelrahman2002/News) | Clean and simple web application for reading the latest news | .NET, Web API |
 
 </div>
 
@@ -105,17 +104,17 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 
 ### 🎯 Current Focus Areas
 - 🔄 Advanced ASP.NET Core patterns and microservices architecture
-- 🤖 Embedded systems & IoT integration with cloud platforms
+- 🤖 Embedded systems & IoT integration
 - 🏗️ Clean Architecture and Domain-Driven Design (DDD)
 - ⚡ Performance optimization in .NET applications
 - 🔐 Security best practices in web development
 
 ### 📚 Learning Path 2024
 - [ ] Advanced Docker & Kubernetes orchestration
-- [ ] Azure cloud services and serverless computing
+- [ ] Modern web development frameworks
 - [ ] Machine Learning fundamentals with ML.NET
 - [ ] Advanced embedded systems with FreeRTOS
-- [ ] DevOps practices and CI/CD pipelines
+- [ ] Automation and continuous integration practices
 
 </div>
 
@@ -146,6 +145,7 @@ I'm a dedicated **.NET Software Engineer** with a passion for building robust an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdelrahman-166378257/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.abdelrahman782002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudAbdelrahman2002)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mahmoud.Abdelrahman)
 
 </div>
 
@@ -177,7 +177,7 @@ const mahmoud = {
         backEnd: ["C#", ".NET Core", "ASP.NET Core"],
         embedded: ["C", "AVR", "ARM", "RTOS"],
         databases: ["SQL Server"],
-        devOps: ["Docker", "GitHub Actions", "Azure DevOps"],
+        devTools: ["Docker", "GitHub Actions"],
         tools: ["Git", "Visual Studio", "VS Code"]
     },
     currentFocus: "Building scalable .NET applications and embedded solutions",
