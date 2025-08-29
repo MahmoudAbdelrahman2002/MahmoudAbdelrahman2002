@@ -71,13 +71,14 @@ I'm passionate about building amazing software with a diverse set of technologie
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**BookHub MVC**](https://github.com/MahmoudAbdelrahman2002/BookHub-MVC) | Comprehensive book management system with user authentication, book catalog, and library operations | ASP.NET Core MVC, Entity Framework |
+| [**News Reader App**](https://github.com/MahmoudAbdelrahman2002/News) | Clean and simple web application for reading the latest news | .NET, Web API |
 | [**Stopwatch Application**](https://github.com/MahmoudAbdelrahman2002/Stop_Watch) | A user-friendly digital stopwatch with start, stop, reset features and lap timing | C, Embedded Systems |
 | [**Smart Fan Controller**](https://github.com/MahmoudAbdelrahman2002/fanController) | Intelligent fan control system that automatically adjusts speed based on temperature | C, AVR, Sensors |
 | [**Digital Clock System**](https://github.com/MahmoudAbdelrahman2002/Clock-System) | Feature-rich digital clock with alarm functionality and clear display | C, Embedded, RTOS |
 | [**Development Utilities**](https://github.com/MahmoudAbdelrahman2002/tool_chain) | Helpful utilities and scripts that make embedded development easier | C, Scripts |
 | [**Custom Bootloader**](https://github.com/MahmoudAbdelrahman2002/Bootloader-Project) | Reliable bootloader for safe and secure firmware updates | C, ARM, Firmware |
 | [**Distance Measuring Tool**](https://github.com/MahmoudAbdelrahman2002/Distance-Measuring-System) | Accurate distance measurement device using modern sensor technology | C, Sensors, AVR |
-| [**News Reader App**](https://github.com/MahmoudAbdelrahman2002/News) | Clean and simple web application for reading the latest news | .NET, Web API |
 
 </div>
 
