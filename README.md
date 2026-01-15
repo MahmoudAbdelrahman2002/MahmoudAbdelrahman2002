@@ -71,6 +71,8 @@ I'm passionate about building amazing software with a diverse set of technologie
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**Restaurants API**](https://github.com/MahmoudAbdelrahman2002/Restaurants-Api) | Comprehensive RESTful API for managing restaurants and dishes with Clean Architecture and DDD patterns | ASP.NET Core, Entity Framework, CQRS, MediatR |
+| [**FitnessCoach API**](https://github.com/MahmoudAbdelrahman2002/FitnessCoach) | AI-powered fitness coaching API that generates personalized meal plans and workout routines using Google Gemini AI | ASP.NET Core, Google Gemini AI, JWT |
 | [**BookHub MVC**](https://github.com/MahmoudAbdelrahman2002/BookHub-MVC) | Comprehensive book management system with user authentication, book catalog, and library operations | ASP.NET Core MVC, Entity Framework |
 | [**News Reader App**](https://github.com/MahmoudAbdelrahman2002/News) | Clean and simple web application for reading the latest news | .NET, Web API |
 | [**Stopwatch Application**](https://github.com/MahmoudAbdelrahman2002/Stop_Watch) | A user-friendly digital stopwatch with start, stop, reset features and lap timing | C, Embedded Systems |
